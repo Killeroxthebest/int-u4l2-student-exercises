@@ -14,6 +14,6 @@ submitButton.addEventListener("click", function() {
     // - Have them show up in the div with class "results".
     // - Example paragraph: "My name is (myName). I'm feeling (mood) and I absolutely lovveeee eating (food) 😍..."
     // - Try placing your sentences into <p> or <li> tags.
-
-
+results.innerHTML = "citys"*= city
+        //   
 });
